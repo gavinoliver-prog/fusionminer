@@ -12,7 +12,7 @@ Fusionminer Source README
 
 5)  The source version is written in Perl therefore Perl is required.  The Getopt::Std modules is needed also.
 
-6)  A test set of results (THC.result.zip) are provided at https://sourceforge.net/projects/fusionminer/files/latest/download. This should be uncompressed before use.
+6)  A test set of results (THC.result.zip) are provided. This should be uncompressed before use.
 
 7)  Genomic coordinates used as input to the program are provided in the "genomic.coords" file.
     The coordinates required for reading frame detrmination are provided in the "framecheck.coords" file.
