@@ -116,18 +116,6 @@ chr1, chr2, chr3 ... chrX
 
 ---
 
-# Example Dataset
-
-A test dataset is included:
-
-```
-THC.result.zip (https://sourceforge.net/projects/fusionminer/files/latest/download)
-```
-
-Uncompress the file before running the pipeline.
-
----
-
 # Running the Pipeline
 
 The main executable script is:
@@ -266,6 +254,18 @@ Example:
 This clusters candidate events by repeat occurrence, helping identify recurrent signals among rejected alignments.
 
 Currently this clustering functionality is implemented for interchromosomal chimeras.
+
+---
+
+# Example Dataset
+
+A test dataset is included:
+
+```
+THC.result.zip (https://sourceforge.net/projects/fusionminer/files/latest/download)
+```
+
+Uncompress the file before running the pipeline.
 
 ---
 
