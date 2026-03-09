@@ -1,0 +1,34 @@
+###################################
+# Parameter file for Fusionminer
+###################################
+
+
+# Length filter for blastfilter script (default of 0 i.e. no filter if unspecified)
+-a 10
+
+# Score filter for blastfilter script (default of 0 i.e. no filter if unspecified)
+-b 0
+
+# %ID filter for blastfilter script (default of 0 i.e. no filter if unspecified)
+-c 95
+
+# Permitted gap filter for chimfind script (default of 10 if unspecified)
+-d 20
+
+# Length filter for chimfilt, chimfiltSING and splicescanSING scripts (default of 0 i.e. no filter if unspecified)
+-e 100
+
+# %ID filter for chimfilt, chimfiltSING and splicescanSING scripts (default of 0 i.e. no filter if unspecified)
+-f 98
+
+# Permitted gap/overlap at fusion point for chimfilt and splicescanSING and chimclust scripts (default of 10 if unspecified)
+-g 10
+
+# Gene/exon boundary permissible error threshold for chimfiltSING, splicescan and splicescanSING (default of 3 if unspecified)
+-h 3
+
+# Genomic coordinate file for chimfiltSING, splicescan and splicescanSING 
+-i ./genomic.coords
+
+# Coordinate file for fusion protein prediction
+-j ./framecheck.coords
