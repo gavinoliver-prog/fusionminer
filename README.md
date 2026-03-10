@@ -292,11 +292,12 @@ https://sourceforge.net/projects/fusionminer/
 
 If referencing FusionMiner or work derived from it, please cite:
 
-Plebani R, Oliver GR, Trerotola M, et al.  
+**Plebani, R., Oliver, G. R., Trerotola, M., Guerra, E., Cantanelli, P., Apicella, L., Emerson, A., Albiero, A., Harkin, P. D., Kennedy, R. D., & Alberti, S.** (2012).  
 *Long-range transcriptome sequencing reveals cancer cell growth regulatory chimeric mRNA.*  
-Neoplasia. 2012;14(11):1087–1096.
+**Neoplasia**, 14(11), 1087–1099.  
+https://doi.org/10.1593/neo.121342
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC3514740/
+\*Authors contributed equally.
 
 ---
 
